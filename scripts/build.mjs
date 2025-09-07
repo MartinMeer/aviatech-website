@@ -27,6 +27,8 @@ const esbuildOpts = {
   loader: {
     '.html': 'copy',
     '.png': 'file',
+    '.txt': 'copy',
+    '.xml': 'copy',
   },
   plugins: [
     stylePlugin({

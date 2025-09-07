@@ -130,6 +130,10 @@ const resources = {
         address: 'Moscow, Industrialnaya St. 15, bld. 3',
         copyright: '© {{year}} Aviatech. All rights reserved.',
       },
+      seo: {
+        description: 'Professional metalworking services for aerospace and space industries. CNC machining of aluminum, titanium, and heat-resistant steels. 15+ years experience, ±0.01mm precision.',
+        keywords: 'aerospace metalworking, CNC machining, titanium, aluminum, precision manufacturing, aerospace industry, metalworking Moscow',
+      },
     },
   },
   ru: {
@@ -242,6 +246,10 @@ const resources = {
         qualityLine: 'Отдел качества: +7 (495) 123-45-69 · quality@aviatech.ru',
         address: 'Москва, ул. Промышленная, д. 15, стр. 3',
         copyright: '© {{year}} Aviatech. Все права защищены.',
+      },
+      seo: {
+        description: 'Профессиональные услуги металлообработки для авиационной и космической промышленности. Обработка на ЧПУ алюминия, титана и жаропрочных сталей. 15+ лет опыта, точность ±0.01 мм.',
+        keywords: 'авиационная металлообработка, ЧПУ станки, титан, алюминий, прецизионная обработка, авиакосмическая промышленность, металлообработка Москва',
       },
     },
   },
